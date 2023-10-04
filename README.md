@@ -20,7 +20,7 @@
 - Download or clone the repository
 
 ```
-git clone https://github.com/Nebiyu-0791/Virtual_Keyboard
+git clone https://github.com/Nebiyu-0791/Virtual_Keyboard.git
 ```
 
 - Go to the directory
