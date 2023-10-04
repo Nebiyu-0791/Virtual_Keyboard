@@ -28,5 +28,5 @@ git clone https://github.com/Nebiyu-0791/Virtual_Keyboard.git
 - Start Typing!
 
 <h3> Screenshots </h3>
-<img src = "https://github.com/Nebiyu-0791/Virtual_Keyboard/blob/main/snap.PNG" />
+<img src = "https://github.com/Nebiyu-0791/Virtual_Keyboard/blob/main/snap.PNG"/>
 <br># Virtual_Keyboard
